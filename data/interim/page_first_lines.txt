@@ -1,0 +1,740 @@
+Page    1: Government of India 2025-26 2025-26 vkfFkZd dk;Z foHkkx DEPARTMENT OF ECONOMIC A
+Page    2: Economic Survey 2025-26 Government of India Ministry of Finance Department of Ec
+Page    3: 
+Page    4: CONTENTS vii Preface xvii Acknowledgement xix Abbreviations xxxvii List of Table
+Page    5: 215 GDP Deflators: Manufacturing’s Reversal in Terms of Trade 217 Inflation: Reg
+Page    6: 410 Regulation: Streamlining environmental governance for growth 415 Conclusion:
+Page    7: 16 part-I FROM IMPORT SUBSTITUTION TO STRATEGIC RESILIENCE AND STRATEGIC INDISPE
+Page    8: Preface Expectations and the reality of 2025 The year 2025 may have begun with o
+Page    9: Growth is good; the outlook remains favourable; inflation is contained; rainfall
+Page   10: remains integrated yet increasingly distrustful. One could attach a subjective p
+Page   11: and a credible degree of strategic autonomy. These features provide buffers in a
+Page   12: countries have the same credit rating of BBB. States’ fiscal priorities, perhaps
+Page   13: manufacturing exports, they do not impose hard fiscal, employment, or logistical
+Page   14: Against this backdrop, the principal strategic risk for India is less about any
+Page   15: choice. A possible eruption of multiple global crises, which presents an opportu
+Page   16: and medium enterprises to expand and integrate more effectively into formal valu
+Page   17: 
+Page   18: Acknowledgment Consistent with tradition, the Economic Survey 2025-26 is a produ
+Page   19: Kalal, Amrit Pal Kaur, Anu Verma, Khushboo Meena, Digambar Swain, Manash Kumar R
+Page   20: Abbreviations AAGR Average Annual Growth Rate AAI Airports Authority of India AA
+Page   21: ASISSE Annual Survey of Incorporated Service Sector Enterprises ASPI Australian
+Page   22: CCUS Carbon Capture, Utilisation, and Storage C-DAC Centre for Development of Ad
+Page   23: CWS Current Weekly Status CwSN Children with special needs CY Calendar Year DAES
+Page   24: EPF Employees' Provident Fund EPFO Employees’ Provident Fund Organisation EPM Ex
+Page   25: FSR Financial Stability Report FSSAI Food Safety and Standards Authority of Indi
+Page   26: HAC heteroskedasticity and autocorrelation-consistent HAM Hybrid Annuity Model H
+Page   27: IP Intellectual Property IPCC Intergovernmental Panel on Climate Change IPDS Int
+Page   28: LEO Low Earth Orbit LFPR Labour Force Participation Rate LG Lucky-Goldstar (LG C
+Page   29: MSDE Ministry of Skill Development and Entrepreneurship MSF Marginal Standing Fa
+Page   30: NFA Net Fixed Assets NFAP National Frequency Allocation Plan NFC Non-Food Credit
+Page   31: NSDC National Skill Development Corporation NSDL National Securities Depository
+Page   32: PKVY Paramparagat Krishi Vikas Yojana PLFS Periodic Labour Force Survey PLI Prod
+Page   33: PSU Public Sector Undertaking PVTG Particularly Vulnerable Tribal Groups QBUSE Q
+Page   34: SAS Situation Assessment Survey SASCI Special Assistance to States for Capital I
+Page   35: SMDI Strengthening of Medical Device Industry Scheme SMEC Scheme to Promote Manu
+Page   36: TPU Trade Policy Uncertainty TRCs Translational Research Centres TReDS Trade Rec
+Page   37: UWIS Urban Water Information System VB-G RAM G Viksit Bharat–Guarantee for Rozga
+Page   38: List of Tables Table No. Title Page No. Table I.1 Revisions in IMF's Global Grow
+Page   39: Table No. Title Page No. Table XIII.2 NRLM: Empowering Rural Communities - From
+Page   40: List of Charts Chart No. Title Page No. Chart I.1 Policy Rates in EMDEs 3 Chart
+Page   41: Chart No. Title Page No. Chart II. 4b E-Way Bill Volumes Indicate Robust Transac
+Page   42: Chart No. Title Page No. Chart III.14 Ownership Trends of Individual Investors 1
+Page   43: Chart No. Title Page No. Chart IV.26 NIIP - Major Net Creditors and Debtors to t
+Page   44: Chart No. Title Page No. Chart VII.2 Resilient and Steady: India's Services GVA
+Page   45: Chart No. Title Page No. Chart VIII.18 Trade in Textiles and Apparels 310 Chart
+Page   46: Chart No. Title Page No. Chart X.3 India’s Clean Energy Achievements at a Glance
+Page   47: Chart No. Title Page No. Chart XIII.1 Progress in State-Wise Incidence of Multid
+Page   48: List of Boxes Box No. Title Page No. Box I.1 The Resurgence of Economic Statecra
+Page   49: Box VI.1 State Level Innovations in Agricultural Governance leading to 231 outco
+Page   50: Box IX.6 Recent Legislative Reforms in Ports And Shipping Sector 355 Box IX.7 In
+Page   51: Box XII.6 Making Skilling ‘Work’ For Upskilling and Employability 495 Box XII.7
+Page   52: CHAPTE R 01 STATE OF THE ECONOMY: PUSHING THE GROWTH FRONTIER The global economi
+Page   53: Economic Survey 2025-26 GLOBAL ECONOMIC GROWTH – FRAGILE AND DIVERGING 1.1. Sinc
+Page   54: State of the Economy within and across countries. Growth in the US has remained
+Page   55: Economic Survey 2025-26 generally smaller than the record deficits of 2020 and 2
+Page   56: State of the Economy semiconductor manufacturing, with three of them located in
+Page   57: Economic Survey 2025-26 Economic statecraft is not new. Historical examples incl
+Page   58: State of the Economy strategic distrust, is fostering a more fragmented and pola
+Page   59: Economic Survey 2025-26 • Tariffs: Rolled out in 2023 and fully effective from 2
+Page   60: State of the Economy strong growth path, as reflected in the First Advance Estim
+Page   61: Economic Survey 2025-26 Table I.2b: Sectoral contribution to GDP Share as % of N
+Page   62: State of the Economy Chart I.7: Growth in PFCE highest Chart I.8: Share of PFCE
+Page   63: Economic Survey 2025-26 Table I.3: Performance of high-frequency indicators indi
+Page   64: State of the Economy 1.13. The implicit H2 estimate of GFCF for FY2614 indicates
+Page   65: Economic Survey 2025-26 1.15. The implicit H2 estimate for exports of goods and
+Page   66: State of the Economy 6 for details). By contrast, allied activities, particularl
+Page   67: Economic Survey 2025-26 1.20. This assessment is supported by developments in th
+Page   68: State of the Economy Table I.5: High-frequency indicators suggest strengthening
+Page   69: Economic Survey 2025-26 1.25. Within the service sector, all sub-segments have g
+Page   70: State of the Economy Reichlin, 2010).19 The basic principle of nowcasting is the
+Page   71: Economic Survey 2025-26 visualised in a “scree plot”.22 The factors which explai
+Page   72: State of the Economy This quarterly factor is then used as an exogenous variable
+Page   73: Economic Survey 2025-26 Expert Group is providing guidance on concepts, definiti
+Page   74: State of the Economy • Strengthening of informal sector estimates through the co
+Page   75: Economic Survey 2025-26 ASSESSMENT OF DOMESTIC MACROECONOMIC FUNDAMENTALS Inflat
+Page   76: State of the Economy year. Recent tax policy reforms, including the restructurin
+Page   77: Economic Survey 2025-26 yields, which serve as benchmarks for borrowing costs ac
+Page   78: State of the Economy 1.34. While YoY growth of outstanding non-food credit stand
+Page   79: Economic Survey 2025-26 marginally declined by 4.2 per cent, an increase in FDI
+Page   80: State of the Economy skill development initiatives. Recent labour market indicat
+Page   81: Economic Survey 2025-26 as life expectancy, the infant mortality rate (IMR), and
+Page   82: State of the Economy resilient, and private investment intentions are improving.
+Page   83: Economic Survey 2025-26 Here, Y denotes output, K denotes capital stock, L is la
+Page   84: State of the Economy Looking ahead, as post-pandemic uncertainty continues to ea
+Page   85: Economic Survey 2025-26 Complementary reforms in physical infrastructure, logist
+Page   86: State of the Economy Bank, 200838; IMF, 201539). Domestically, India fulfils bot
+Page   87: This page has been left blank
+Page   88: CHAPTE R FISCAL DEVELOPMENTS: 2 ANCHORING STABILITY THROUGH CREDIBLE CONSOLIDATI
+Page   89: Economic Survey 2025-26 Expenditure/Investment (SASCI), has successfully incenti
+Page   90: Fiscal Developments CENTRAL GOVERNMENT FINANCES Fiscal policy as a key anchor of
+Page   91: Economic Survey 2025-26 Sustained revenue buoyancy supports consolidation 2.5 In
+Page   92: Fiscal Developments Table II.1: Trends in the components of direct taxes (₹ lakh
+Page   93: Economic Survey 2025-26 Data-driven nudges also improved third-party reporting a
+Page   94: Fiscal Developments 2.12 At the same time, the moderate buoyancy of 0.4 in custo
+Page   95: Economic Survey 2025-26 2.15 The underlying strength of GST revenues is reflecte
+Page   96: Fiscal Developments Key Changes introduced in GST 2.0 • GST on agricultural good
+Page   97: Economic Survey 2025-26 • Zero GST on select lifesaving drugs & medicines. Medic
+Page   98: Fiscal Developments GST, where tax rates on inputs exceed those on outputs, can
+Page   99: Economic Survey 2025-26 Non-tax revenues buoyed by rising dividends and profits
+Page  100: Fiscal Developments Non-debt capital receipts 2.21 Receipts from asset and equit
+Page  101: Economic Survey 2025-26 recycling public capital toward future growth sectors. T
+Page  102: Fiscal Developments 2.26 In addition to streamlining the design of subsidy schem
+Page  103: Economic Survey 2025-26 Accordingly, the Electricity (Amendment) Bill, 2025, was
+Page  104: Fiscal Developments replaces the earlier credit-push model of bulk fund releases
+Page  105: Economic Survey 2025-26 use and CO₂ emissions, supporting India’s Paris Agreemen
+Page  106: Fiscal Developments 2.30 Emphasis on asset creation is also reflected in the com
+Page  107: Economic Survey 2025-26 Chart II.7: Trends in expenditure of the Centre - April
+Page  108: Fiscal Developments OVERVIEW OF STATE GOVERNMENT FINANCES Expanding Centre-State
+Page  109: Economic Survey 2025-26 Box II.5 Fiscal devolution and economic convergence acro
+Page  110: Fiscal Developments and employees’) that they deposit under the National Pension
+Page  111: Economic Survey 2025-26 increase in revenue deficit of states as a collective, t
+Page  112: Fiscal Developments own tax revenue in total revenue receipts increased from 46
+Page  113: Economic Survey 2025-26 Box II.6: Special Assistance to States for Capital Expen
+Page  114: Fiscal Developments states. By sustaining investment and incentivising reforms,
+Page  115: Economic Survey 2025-26 Chart II.14: Composition of States’ Chart II.15: Quality
+Page  116: Fiscal Developments Monthly Per Capita Consumption Expenditure (MPCE) of at leas
+Page  117: Economic Survey 2025-26 families received cash only if children attended school
+Page  118: Fiscal Developments Chart II.16: Performance of States’ receipts during April-No
+Page  119: Economic Survey 2025-26 compression in revenue expenditure (Chart II.19). The sh
+Page  120: Fiscal Developments Chart II.20: Deficit indicators as on end November42 180 154
+Page  121: Economic Survey 2025-26 Box II.8: Fiscal policy framework for the Central Govern
+Page  122: Fiscal Developments government liabilities (around 65 per cent)43. This composit
+Page  123: Economic Survey 2025-26 2.48 Rollover, interest rate, and foreign currency risks
+Page  124: Fiscal Developments This can be achieved by improving the timeliness, granularit
+Page  125: Economic Survey 2025-26 Chart II.24: Trends in general government gross debt acr
+Page  126: Fiscal Developments infrastructure) permanently raises the steady-state growth r
+Page  127: Economic Survey 2025-26 to-GDP ratio induces an improvement in the primary balan
+Page  128: Fiscal Developments their tax revenues were in the range of 20 to 28 per cent of
+Page  129: Economic Survey 2025-26 emerging trends in State-level debt and deficits undersc
+Page  130: CHAPTE R 3 MONETARY MANAGEMENT AND FINANCIAL INTERMEDIATION: REFINING THE REGULA
+Page  131: Economic Survey 2025-26 supply, interest rates, and liquidity to ensure price st
+Page  132: Monetary Management and Financial Intermediation risk in real time. The year 202
+Page  133: Economic Survey 2025-26 and financial intermediation costs (Francis, Hasan & Zhu
+Page  134: Monetary Management and Financial Intermediation Box III.1: Capital formation am
+Page  135: Economic Survey 2025-26 export orientation.16 The study period encompasses sever
+Page  136: Monetary Management and Financial Intermediation capital formation, i.e., reduce
+Page  137: Economic Survey 2025-26 Chart III.2: Variations in EPU and model estimates of un
+Page  138: Monetary Management and Financial Intermediation Policy approaches aimed at revi
+Page  139: Economic Survey 2025-26 the impact of the CRR cut, which led to a reduction in b
+Page  140: Monetary Management and Financial Intermediation Chart III.4: Trends in the mone
+Page  141: Economic Survey 2025-26 Chart III.5: Policy corridor and call rate 7.00 6.50 6.0
+Page  142: Monetary Management and Financial Intermediation Unified Payments Interface (UPI
+Page  143: Economic Survey 2025-26 3.22 The recovery rate in NPAs26 in SCBs has approximate
+Page  144: Monetary Management and Financial Intermediation 3.25 In terms of sectoral deplo
+Page  145: Economic Survey 2025-26 3.26 While the YoY growth trend in credit for industry a
+Page  146: Monetary Management and Financial Intermediation Chart III.10: Overall flow of r
+Page  147: Economic Survey 2025-26 instruments to meet their funding requirements, while MS
+Page  148: Monetary Management and Financial Intermediation Chart III.11: Performance of th
+Page  149: Economic Survey 2025-26 based on the digital footprints32 for MSMEs in 2025. Thi
+Page  150: Monetary Management and Financial Intermediation Box III.2: Artificial Intellige
+Page  151: Economic Survey 2025-26 EU has developed a comprehensive AI framework through th
+Page  152: Monetary Management and Financial Intermediation establishing regulatory sandbox
+Page  153: Economic Survey 2025-26 organisations (SROs)46 in the form of reduced loan limit
+Page  154: Monetary Management and Financial Intermediation has enabled MFIs to scale opera
+Page  155: Economic Survey 2025-26 The alignment of investment incentives is closely relate
+Page  156: Monetary Management and Financial Intermediation performance evaluation with ver
+Page  157: Economic Survey 2025-26 PMMY, launched in April 2015 with the mandate to 'fund t
+Page  158: Monetary Management and Financial Intermediation of digital payments rising from
+Page  159: Economic Survey 2025-26 In particular, Shashwat Alok et al. (2024)53 demonstrate
+Page  160: Monetary Management and Financial Intermediation The zero-cost, public-good desi
+Page  161: Economic Survey 2025-26 insolvency regime from 'Group C' to 'Group B' on 3 Decem
+Page  162: Monetary Management and Financial Intermediation Chart III.12: Trend of Transiti
+Page  163: Economic Survey 2025-26 3.60 Compounding the insolvency timelines, the National
+Page  164: Monetary Management and Financial Intermediation 3.65 Nifty 50 and BSE Sensex re
+Page  165: Economic Survey 2025-26 instrumental in channelising savings into productive inv
+Page  166: Monetary Management and Financial Intermediation infrastructure institutions (MI
+Page  167: Economic Survey 2025-26 government, intermediaries, or market participants. Such
+Page  168: Monetary Management and Financial Intermediation through simplified KYC processe
+Page  169: Economic Survey 2025-26 household financial savings increased from ~2 per cent i
+Page  170: Monetary Management and Financial Intermediation Chart III.17: Composition of an
+Page  171: Economic Survey 2025-26 Developing a deep debt capital market requires market pa
+Page  172: Monetary Management and Financial Intermediation Strengthening the bond market a
+Page  173: Economic Survey 2025-26 entity-level position limits based on the revised market
+Page  174: Monetary Management and Financial Intermediation over 60 per cent of its issuanc
+Page  175: Economic Survey 2025-26 3.83 However, coordinated and phased reforms are the nee
+Page  176: Monetary Management and Financial Intermediation regulatory restrictions on capi
+Page  177: Economic Survey 2025-26 The results, reported in Table III.1, suggest that a one
+Page  178: Monetary Management and Financial Intermediation contained, expectations of exch
+Page  179: Economic Survey 2025-26 Chart III.18: Trend in net FPI investment in equity and
+Page  180: Monetary Management and Financial Intermediation 3.88 In late May 2025, the spre
+Page  181: Economic Survey 2025-26 3.91 The DIIs have consistently maintained their positio
+Page  182: Monetary Management and Financial Intermediation GIFT City 3.93 The present era
+Page  183: Economic Survey 2025-26 Table III.2: Progress card of the major financial operat
+Page  184: Monetary Management and Financial Intermediation Performance of the pensions sec
+Page  185: Economic Survey 2025-26 3.102 The APY, which envisions a social security system
+Page  186: Monetary Management and Financial Intermediation 3.108 The predominance of infor
+Page  187: Economic Survey 2025-26 long-term fiscal prudence. Continued innovation in servi
+Page  188: Monetary Management and Financial Intermediation volatility, the equity share ca
+Page  189: Economic Survey 2025-26 this protection gap is critical to strengthening househo
+Page  190: Monetary Management and Financial Intermediation • Improved Policyholders’ Prote
+Page  191: Economic Survey 2025-26 from existing customers, high distribution costs are pre
+Page  192: Monetary Management and Financial Intermediation approach to regulation-making,
+Page  193: Economic Survey 2025-26 Box III.11: Finance for growth: paving the way for Viksi
+Page  194: Monetary Management and Financial Intermediation India’s regulatory framework hi
+Page  195: This page has been left blank
+Page  196: CHAPTE R 04 EXTERNAL SECTOR: PLAYING THE LONG GAME India’s external sector has e
+Page  197: Economic Survey 2025-26 fragmented and cautious world is emerging, one where pro
+Page  198: External Sector major economies and the migration of national security tools int
+Page  199: Economic Survey 2025-26 CY 2024, indicating accelerated trade growth among the l
+Page  200: External Sector 4.10 Chart IV.2 depicts the trends in the GTPA Index alongside m
+Page  201: Economic Survey 2025-26 (YoY); similarly, the GEPU Index10 registered an increas
+Page  202: External Sector 4.14 The global trade environment, as discussed above, has left
+Page  203: Economic Survey 2025-26 TRENDS IN INDIA’S TRADE PERFORMANCE 4.17 Over the past d
+Page  204: External Sector which experienced a 13.6 per cent (YoY) increase. At the same ti
+Page  205: Economic Survey 2025-26 that non-petroleum, non-gems and jewellery exports, acco
+Page  206: External Sector improvement in the country’s manufacturing abilities. A rise in
+Page  207: Economic Survey 2025-26 248.3 billion in April-December 2025 from USD 224.0 bill
+Page  208: External Sector exports are influenced by a range of supply-side factors, includ
+Page  209: Economic Survey 2025-26 of exports from this sector stands at 10.6 per cent, whi
+Page  210: External Sector 4.39 In particular, the telecom sector has achieved notable succ
+Page  211: Economic Survey 2025-26 Table IV.1. Alternative destinations for India’s exports
+Page  212: External Sector Auto components/ • US (-6.8) • UAE (84.5), Germany (33.5), parts
+Page  213: Economic Survey 2025-26 Pharmaceutical • US (0.8) • For AYUSH and herbal product
+Page  214: External Sector 4.41 A notable increase in the diversity of countries from which
+Page  215: Economic Survey 2025-26 growth comes from products that fall into low- and mid-c
+Page  216: External Sector affect transaction costs and investor certainty. India’s manufac
+Page  217: Economic Survey 2025-26 However, the manner in which the sector responded offers
+Page  218: External Sector themselves to enter and grow in regulated export markets. This i
+Page  219: Economic Survey 2025-26 Export markets diversified, regulatory credibility deepe
+Page  220: External Sector 4.52 An expanding network of FTAs supports India's trade strateg
+Page  221: Economic Survey 2025-26 Services trade 4.56 India's services trade plays a cruci
+Page  222: External Sector AI Index Report 2025, the country is second globally in AI skill
+Page  223: Economic Survey 2025-26 INDIA’S BALANCE OF PAYMENTS 4.60 The Balance of Payments
+Page  224: External Sector as New Zealand (-7.7 per cent), Brazil (-3.8 per cent), Australi
+Page  225: Economic Survey 2025-26 Chart IV.14: Role of remittance in external financing 15
+Page  226: External Sector 2024 and into the first half of CY 2025, extending the weakness
+Page  227: Economic Survey 2025-26 data centres in developed countries,74 underscoring the
+Page  228: External Sector attracting USD 114 billion. This is well ahead of Malaysia (USD
+Page  229: Economic Survey 2025-26 4.77 FDI outflows from India increased to USD 22.1 billi
+Page  230: External Sector Chart IV.17: Risk-adjusted return on inward FDI (Average Return
+Page  231: Economic Survey 2025-26 country primarily to export goods or services to other m
+Page  232: External Sector Malaysia Malaysian Investment Development Investment missions; t
+Page  233: Economic Survey 2025-26 help mitigate execution risks for involved firms, foster
+Page  234: External Sector India's fundamentals, such as strong growth, expanding markets,
+Page  235: Economic Survey 2025-26 competitiveness through knowledge internalisation, capab
+Page  236: External Sector the IDP, with outward investments increasingly concentrated in t
+Page  237: Economic Survey 2025-26 joint ventures, and acquisitions. It increased further t
+Page  238: External Sector Foreign portfolio investments 4.82 India's FPI pattern shows rec
+Page  239: Economic Survey 2025-26 US Treasury yields, which often trigger ‘flight-to-safet
+Page  240: External Sector of goods imports and about 94 per cent of the external debt outs
+Page  241: Economic Survey 2025-26 South Africa appreciated during this period, supported b
+Page  242: External Sector capital account dynamics. As shown in Chart IV.24, periods of el
+Page  243: Economic Survey 2025-26 Where ln Y refers to BoP variables such as net total tra
+Page  244: External Sector fact that an appreciation can improve the creditworthiness of lo
+Page  245: Economic Survey 2025-26 savings-investment balance and its resulting current acc
+Page  246: External Sector external shocks without major disruption. Currency credibility f
+Page  247: Economic Survey 2025-26 They support income growth and help moderate external pr
+Page  248: External Sector 4.100 Innovation-related indicators present a similar picture of
+Page  249: Economic Survey 2025-26 International Investment Position 4.104 Over the past de
+Page  250: External Sector Correspondingly, net IIP as a ratio to GDP improved to -8.7 per
+Page  251: Economic Survey 2025-26 to end-March 2025). Another key factor is that external
+Page  252: External Sector composition of capital inflows is key. FDI is the most stable so
+Page  253: This page has been left blank
+Page  254: CHAPTE R 05 INFLATION: TAMED AND ANCHORED This chapter provides a comprehensive
+Page  255: Economic Survey 2025-26 GLOBAL INFLATION DEVELOPMENTS 5.1. The world has seen a
+Page  256: Inflation Monetary Policy responses of global central banks 5.3. In response to
+Page  257: Economic Survey 2025-26 Chart V.3: Key Metals -Inflation Trends in 2025 40% Copp
+Page  258: Inflation 5.7. Among major EMDEs, India has recorded one of the sharpest decline
+Page  259: Economic Survey 2025-26 price for producers, as measured by the Wholesale Price
+Page  260: Inflation Softening Core, if precious metals are excluded 5. 10. The apparent di
+Page  261: Economic Survey 2025-26 Dominance of the base effect 5.11. Inflation can be deco
+Page  262: Inflation Chart V.10: Components – CPI (Vegetables, Pulses & Spices) 50.0 40.0 3
+Page  263: Economic Survey 2025-26 Chart V.11: Reducing Volatility in Pulses’ Prices 9 8 7
+Page  264: Inflation 2025 through direct retail sales to consumers at discounted prices, as
+Page  265: Economic Survey 2025-26 Agricultural activity creates a benign environment for i
+Page  266: Inflation Chart V.15: Major Components of Core Inflation 6 5 4 3 2 1 0 215 215 )
+Page  267: Economic Survey 2025-26 making it a comprehensive indicator that can be used to
+Page  268: Inflation pricing power, manufacturing is usually characterised by global compet
+Page  269: Economic Survey 2025-26 Chart V. 17: Headline Inflation: Rural and Urban 9 8 7 6
+Page  270: Inflation of inflation across States, with residual deviations largely driven by
+Page  271: Economic Survey 2025-26 5.33. Using monthly State-wise CPI inflation data from J
+Page  272: Inflation examination of inflation and wage rates at the state-level over a deca
+Page  273: Economic Survey 2025-26 Chart V. 20: State-level inflation differential and wage
+Page  274: Inflation oversupply. Geopolitics may come in the way of this prediction, howeve
+Page  275: This page has been left blank
+Page  276: AGRICULTURE AND FOOD CHAPTE R MANAGEMENT: RAISING 06 PRODUCTIVITY, SECURING INCO
+Page  277: Economic Survey 2025-26 INTRODUCTION 6.1 Agriculture and allied activities contr
+Page  278: Agriculture and Food Managmement Cooperative Societies (PACS), digital initiativ
+Page  279: Economic Survey 2025-26 6.7 It is important to note that during FY 15 and FY24 t
+Page  280: Agriculture and Food Managmement horticulture production increased from 280.70 m
+Page  281: Economic Survey 2025-26 of groundnut production in agro-climatically suitable se
+Page  282: Agriculture and Food Managmement 1951–2024), pulse acreage declined by 2-9 per c
+Page  283: Economic Survey 2025-26 Land and Resource Governance: Andhra Pradesh implemented
+Page  284: Agriculture and Food Managmement DRIVERS OF PRODUCTIVITY IMPROVEMENT: POLICY AND
+Page  285: Economic Survey 2025-26 period, accompanied by sharp increases in Fresh Fruit Bu
+Page  286: Agriculture and Food Managmement in favour of maize. It was hoped that this woul
+Page  287: Economic Survey 2025-26 others. MIDH has played a significant role in expanding
+Page  288: Agriculture and Food Managmement saved seeds due to high costs or limited access
+Page  289: Economic Survey 2025-26 PDMC59 program. As a result, the gross irrigated area as
+Page  290: Agriculture and Food Managmement environmental stability. Successive Economic Su
+Page  291: Economic Survey 2025-26 Because fertiliser needs vary sharply by crop, soil and
+Page  292: Agriculture and Food Managmement The objective is not to compress fertiliser use
+Page  293: Economic Survey 2025-26 Charty VI.9: Region-wise share in KCC-MISS accounts, Cre
+Page  294: Agriculture and Food Managmement 26 (as of 30 October 2025).81 However, fragment
+Page  295: Economic Survey 2025-26 Breeding Centres (NBCs)87 to enhance the genetic quality
+Page  296: Agriculture and Food Managmement 6.32 In the livestock sector, the Animal Husban
+Page  297: Economic Survey 2025-26 improved technologies, and sustainable agriculture pract
+Page  298: Agriculture and Food Managmement the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN
+Page  299: Economic Survey 2025-26 A calibrated diversification approach Rather than alteri
+Page  300: Agriculture and Food Managmement From procurement to market development Over tim
+Page  301: Economic Survey 2025-26 (NCIP) serves as a single source of verified information
+Page  302: Agriculture and Food Managmement been registered across the country.106 Compleme
+Page  303: Economic Survey 2025-26 registered under the online Natural Farming Certificatio
+Page  304: Agriculture and Food Managmement FOOD MANAGEMENT 6.52 The government has taken v
+Page  305: Economic Survey 2025-26 Chart VI.11: Increased procurement Chart VI.12: Food Sub
+Page  306: Agriculture and Food Managmement ONORC has been rolled out across all 36 States/
+Page  307: Economic Survey 2025-26 sustainability and productivity. Climate change poses a
+Page  308: Agriculture and Food Managmement and rejuvenating water bodies and drip irrigati
+Page  309: This page has been left blank
+Page  310: CHAPTE R 07 SERVICES: FROM STABILITY TO NEW FRONTIERS This chapter offers a comp
+Page  311: Economic Survey 2025-26 7.2. The rapid expansion of digitally and remotely deliv
+Page  312: Services: From Stability to New Frontiers delivered services, including IT, fina
+Page  313: Economic Survey 2025-26 Chart VII.2: Resilient and steady: India's Services GVA
+Page  314: Services: From Stability to New Frontiers 7.9. This growing role of services in
+Page  315: Economic Survey 2025-26 accounted for nearly 89 per cent of services FDI, highli
+Page  316: Services: From Stability to New Frontiers Chart VII.6: Deviation from pre-covid
+Page  317: Economic Survey 2025-26 generated in low-value-added subsectors like trade, hosp
+Page  318: Services: From Stability to New Frontiers FY22 average of 61.7 per cent, a perio
+Page  319: Economic Survey 2025-26 Chart VII.8: Services PMI expands higher than long run a
+Page  320: Services: From Stability to New Frontiers Services exports as a buffer amid glob
+Page  321: Economic Survey 2025-26 demand for digital services. Professional and management
+Page  322: Services: From Stability to New Frontiers Table A: Overall Impact of AI Adoption
+Page  323: Economic Survey 2025-26 • The Double Contribution Convention eliminates dual soc
+Page  324: Services: From Stability to New Frontiers • The agreement will stimulate service
+Page  325: Economic Survey 2025-26 relatively low friction. When institutions become burden
+Page  326: Services: From Stability to New Frontiers software ecosystems; medical equipment
+Page  327: Economic Survey 2025-26 Policy-relevant considerations Both global and Indian ev
+Page  328: Services: From Stability to New Frontiers Chart VII.11a: Sustained Chart VII.11b
+Page  329: Economic Survey 2025-26 7.27. Realising tourism potential in different regions a
+Page  330: Services: From Stability to New Frontiers trails, can leverage India’s ecologica
+Page  331: Economic Survey 2025-26 Chart VII.12: Growth of GCCs Ecosystem GCC Revenue Headc
+Page  332: Services: From Stability to New Frontiers 7.36. Another key trend in the IT-ITeS
+Page  333: Economic Survey 2025-26 7.38. A structural shift, rather than a cyclical disrupt
+Page  334: Services: From Stability to New Frontiers the National Building Code, 2016, whic
+Page  335: Economic Survey 2025-26 in the domestic passenger segment. During this period, d
+Page  336: Services: From Stability to New Frontiers during April-December (Table VII.1). G
+Page  337: Economic Survey 2025-26 and supported progress in next-generation secure technol
+Page  338: Services: From Stability to New Frontiers Chart VII.15: Average housing sales re
+Page  339: Economic Survey 2025-26 Box VII.6 on the Orange Economy), crossing ₹100 billion
+Page  340: Services: From Stability to New Frontiers appropriate facilitation and integrati
+Page  341: Economic Survey 2025-26 7.55. Just as space, ocean technology and ocean sciences
+Page  342: Services: From Stability to New Frontiers 7.59. The chapter also highlights key
+Page  343: This page has been left blank
+Page  344: CHAPTE R INDUSTRY'S NEXT 08 LEAP: STRUCTURAL TRANSFORMATION AND GLOBAL INTEGRATI
+Page  345: Economic Survey 2025-26 chain realignments among other factors. Despite a steady
+Page  346: Industry's Next Leap: Structural Transformation and Global Integration 8.5. Coll
+Page  347: Economic Survey 2025-26 move toward higher-value manufacturing segments, improve
+Page  348: Industry's Next Leap: Structural Transformation and Global Integration Chart VII
+Page  349: Economic Survey 2025-26 growing at a CAGR of 28.6 per cent since FY20.7 These tr
+Page  350: Industry's Next Leap: Structural Transformation and Global Integration Glass and
+Page  351: Economic Survey 2025-26 8.17. The cement industry is mainly driven by robust inf
+Page  352: Industry's Next Leap: Structural Transformation and Global Integration Chart VII
+Page  353: Economic Survey 2025-26 importance to India's energy needs. Concurrently, the to
+Page  354: Industry's Next Leap: Structural Transformation and Global Integration numerous
+Page  355: Economic Survey 2025-26 Chart VIII.13: Capital Goods: Production, Exports and Im
+Page  356: Industry's Next Leap: Structural Transformation and Global Integration recorded
+Page  357: Economic Survey 2025-26 • Scheme to Promote Manufacturing of Electric Passenger
+Page  358: Industry's Next Leap: Structural Transformation and Global Integration capital i
+Page  359: Economic Survey 2025-26 markets such as the United States and Europe. Beyond gen
+Page  360: Industry's Next Leap: Structural Transformation and Global Integration Box VIII.
+Page  361: Economic Survey 2025-26 Chart VIII.18: Trade in Textiles and Chart VIII.19: Shar
+Page  362: Industry's Next Leap: Structural Transformation and Global Integration KEY INITI
+Page  363: Economic Survey 2025-26 Box VIII.4: National Mission on Manufacturing (NMM)*32 T
+Page  364: Industry's Next Leap: Structural Transformation and Global Integration Chart VII
+Page  365: Economic Survey 2025-26 entrepreneurship policies and entrepreneurship culture.3
+Page  366: Industry's Next Leap: Structural Transformation and Global Integration system, d
+Page  367: Economic Survey 2025-26 Box VIII.6: India’s Rankings* in Critical Technology Res
+Page  368: Industry's Next Leap: Structural Transformation and Global Integration higher.41
+Page  369: Economic Survey 2025-26 Design Semiconductor manufacturing begins with the desig
+Page  370: Industry's Next Leap: Structural Transformation and Global Integration Furthermo
+Page  371: Economic Survey 2025-26 Chart VIII.25: Growth in terms of number of QCOs and cov
+Page  372: Industry's Next Leap: Structural Transformation and Global Integration Beyond qu
+Page  373: Economic Survey 2025-26 Infrastructure and Logistics: Improving Competitiveness
+Page  374: Industry's Next Leap: Structural Transformation and Global Integration 8.56. Ind
+Page  375: Economic Survey 2025-26 India has also attempted to build industrial clusters th
+Page  376: Industry's Next Leap: Structural Transformation and Global Integration based ind
+Page  377: Economic Survey 2025-26 has significantly outpaced the Y-o-Y growth observed in
+Page  378: Industry's Next Leap: Structural Transformation and Global Integration with prof
+Page  379: Economic Survey 2025-26 Scheme. Innovation is also being institutionalised throu
+Page  380: Industry's Next Leap: Structural Transformation and Global Integration including
+Page  381: Economic Survey 2025-26 Further, this shift towards formal sources has also help
+Page  382: Industry's Next Leap: Structural Transformation and Global Integration Chart VII
+Page  383: Economic Survey 2025-26 INTEGRATING WITH GLOBAL VALUE CHAINS 8.68. India account
+Page  384: Industry's Next Leap: Structural Transformation and Global Integration assembly-
+Page  385: Economic Survey 2025-26 For India, a calibrated deepening of participation in gl
+Page  386: Industry's Next Leap: Structural Transformation and Global Integration fundraisi
+Page  387: Economic Survey 2025-26 As we undertake this policy effort to place innovation a
+Page  388: Industry's Next Leap: Structural Transformation and Global Integration systems a
+Page  389: This page has been left blank
+Page  390: CHAPTE R INVESTMENT AND 09 INFRASTRUCTURE: STRENGTHENING CONNECTIVITY, CAPACITY
+Page  391: Economic Survey 2025-26 9.3 A major element of this shift has been the substanti
+Page  392: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  393: Economic Survey 2025-26 sectors infrastructure. Discussions pertaining to urban
+Page  394: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  395: Economic Survey 2025-26 management contracts like Build-Operate-Transfer (BOT),
+Page  396: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  397: Economic Survey 2025-26 Box IX.2: Public–Private Partnerships (PPP)- Strengtheni
+Page  398: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  399: Economic Survey 2025-26 efficiency and technological integration. Over the past
+Page  400: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  401: Economic Survey 2025-26 programme has been strengthened through focused initiati
+Page  402: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  403: Economic Survey 2025-26 DFC (1,337 km) fully completed and 1,404 km of the 1,506
+Page  404: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  405: Economic Survey 2025-26 9.29 Outlook: India’s civil aviation sector is on a sust
+Page  406: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  407: Economic Survey 2025-26 introduces strategic planning for coastal and inland wat
+Page  408: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  409: Economic Survey 2025-26 A defining feature of KWM is its deployment of air-condi
+Page  410: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  411: Economic Survey 2025-26 Chart IX.15: Capacity addition in the power sector Sourc
+Page  412: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  413: Economic Survey 2025-26 4. Timely Recovery of Change-in-Law Costs: The 2021 Rule
+Page  414: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  415: Economic Survey 2025-26 repeat documentation or technical integrations for each
+Page  416: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  417: Economic Survey 2025-26 Chart IX.18: Total installed RE capacity: 253.96 GW (Nov
+Page  418: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  419: Economic Survey 2025-26 Chart IX.21: Affordability driving surge in monthly data
+Page  420: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  421: Economic Survey 2025-26 of this ecosystem, supporting application hosting, data
+Page  422: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  423: Economic Survey 2025-26 9.52 To ensure long-term operational efficiency, the pro
+Page  424: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  425: Economic Survey 2025-26 Indian astronaut conduct microgravity experiments aboard
+Page  426: Investment and Infrastructure: Strengthening Connectivity, Capacity and Competit
+Page  427: Economic Survey 2025-26 9.62 At the same time, the concept of infrastructure is
+Page  428: CHAPTE R ENVIRONMENT AND CLIMATE CHANGE: BUILDING 10 A RESILIENT, COMPETITIVE AN
+Page  429: Economic Survey 2025-26 system resilience.1 These developments matter deeply for
+Page  430: Environment and Climate Change bottlenecks multiply. The result is what may be d
+Page  431: Economic Survey 2025-26 climate risk, but to highlight the need for context-spec
+Page  432: Environment and Climate Change as renewables scale; strengthening transmission a
+Page  433: Economic Survey 2025-26 10.16 Thirdly, a predominant reliance on domestic resour
+Page  434: Environment and Climate Change across different sectors. The fifth section cover
+Page  435: Economic Survey 2025-26 to 5.6 per cent of the GDP in FY22.14 The National Actio
+Page  436: Environment and Climate Change has expanded protected wetlands that support floo
+Page  437: Economic Survey 2025-26 vulnerable coastal areas or unique Himalayan ecosystems.
+Page  438: Environment and Climate Change through sustainable forest management. The initia
+Page  439: Economic Survey 2025-26 payouts when the maximum temperature crosses certain pre
+Page  440: Environment and Climate Change or coastlines alone; they must be built into the
+Page  441: Economic Survey 2025-26 lists for new connections to the grid.33, 34 These cases
+Page  442: Environment and Climate Change 10.40 The progress in expanding non-fossil fuel-b
+Page  443: Economic Survey 2025-26 Box X.2: The Sustainable Harnessing and Advancement of N
+Page  444: Environment and Climate Change into the energy grid. Material and storage requir
+Page  445: Economic Survey 2025-26 Market,54 and tariff-based competitive bidding guideline
+Page  446: Environment and Climate Change as well as industrial and agricultural solar plan
+Page  447: Economic Survey 2025-26 The world will also soon run short of copper at the curr
+Page  448: Environment and Climate Change of supply chains, exporting raw materials while c
+Page  449: Economic Survey 2025-26 minerals across the country.73 Meanwhile, the government
+Page  450: Environment and Climate Change mechanism enables mitigation outcomes from entiti
+Page  451: Economic Survey 2025-26 small industries not covered by the existing EU ETS) (to
+Page  452: Environment and Climate Change mechanisms (PAT) encourage the use of less energy
+Page  453: Economic Survey 2025-26 10.64 Global financial assets under management reached U
+Page  454: Environment and Climate Change 10.67 International public sector climate finance
+Page  455: Economic Survey 2025-26 Programme has been recently approved under NDMF to monit
+Page  456: Environment and Climate Change management, and green energy, tailored to area-sp
+Page  457: Economic Survey 2025-26 Box X.7: Greenium in Sovereign Green Bond Markets — Cros
+Page  458: Environment and Climate Change market liquidity, consolidating issuances into be
+Page  459: Economic Survey 2025-26 9.1 of the Paris Agreement, establishing a two-year work
+Page  460: Environment and Climate Change Recent innovations demonstrate how targeted risk-
+Page  461: Economic Survey 2025-26 Regulation: Streamlining environmental governance for gr
+Page  462: Environment and Climate Change Act, and the EPA, established the command and con
+Page  463: Economic Survey 2025-26 emissions, the market reduced abatement costs by 11–14 p
+Page  464: Environment and Climate Change 10.89 Environmental regulations have been rationa
+Page  465: Economic Survey 2025-26 SUP and (c) CPCB Grievance Redressal App are in operatio
+Page  466: Environment and Climate Change Kerala has, under the BRAP 2024,120 streamlined b
+Page  467: Economic Survey 2025-26 10.98 The chapter underscores that climate action is no
+Page  468: Environment and Climate Change technologies, as well as on research and developm
+Page  469: This page has been left blank
+Page  470: CHAPTE R 11 EDUCATION AND HEALTH: WHAT WORKS AND WHAT’S NEXT India's journey tow
+Page  471: Economic Survey 2025-26 11.2. Achievements in the education space have been mark
+Page  472: Education and Health Table XI.1: Cross-country comparison of EYS Country Per cen
+Page  473: Economic Survey 2025-26 School infrastructure 11.10. India today operates one of
+Page  474: Education and Health Pradhan Mantri Janjati Adivasi Nyaya Multilingual textbooks
+Page  475: Economic Survey 2025-26 Chart XI.1: Improvement in school infrastructure 9699 96
+Page  476: Education and Health 11.14. India has made notable gains in school enrolment by
+Page  477: Economic Survey 2025-26 Another example is the Zilla Parishad School Jalindarnag
+Page  478: Education and Health launched.23 Its main objective is to evaluate students' lea
+Page  479: Economic Survey 2025-26 Institutionalised systemic assessments Large-scale asses
+Page  480: Education and Health Authority in Dubai utilises a tested template: schools are
+Page  481: Economic Survey 2025-26 Box XI.3: From books to report cards: Evidence from lear
+Page  482: Education and Health To address these challenges, Pratham’s Teaching at the Righ
+Page  483: Economic Survey 2025-26 Chart XI.4: Reason for not attending school for out-of-s
+Page  484: Education and Health Table XI.3: Status of skilling of population in the age gro
+Page  485: Economic Survey 2025-26 in 2014-15 to 70,018 as of June 2025, significantly impr
+Page  486: Education and Health by 153 universities to achieve the NEP target of 50 per cen
+Page  487: Economic Survey 2025-26 the quality of SPUs are crucial for India's vision of be
+Page  488: Education and Health Box XI. 5. Industry-academia integration in STEM education
+Page  489: Economic Survey 2025-26 Complementing this, the AICTE-Industry Fellowship Progra
+Page  490: Education and Health funded and have the choice of content providers. These deve
+Page  491: Economic Survey 2025-26 Chart XI.6: Comparative figures of inbound students for
+Page  492: Education and Health Domestically limited international visibility of most insti
+Page  493: Economic Survey 2025-26 Internationalisation of education is the foundational st
+Page  494: Education and Health Chart XI.7: State-wise progress in IMR over the past decade
+Page  495: Economic Survey 2025-26 deployed78. Initiatives such as the Cough Against Tuberc
+Page  496: Education and Health Ayushman Bharat Health National Tuberculosis Elimination In
+Page  497: Economic Survey 2025-26 decline in mortality from infectious diseases and an inc
+Page  498: Education and Health Chart XI.9: Gender and cause-specific comparison of death (
+Page  499: Economic Survey 2025-26 150 per cent from 2009 to 2023.95 Retail sales of UPFs i
+Page  500: Education and Health will require coordinated policies across food systems that
+Page  501: Economic Survey 2025-26 While Rule 7 of the Advertisement Code prohibits mislead
+Page  502: Education and Health Nutrient-Based Tax on UPFs: The possibility of introducing
+Page  503: Economic Survey 2025-26 mothers, and micronutrient and mineral deficiencies, esp
+Page  504: Education and Health Chart XI.12: Convergence of per day per capita calorie inta
+Page  505: Economic Survey 2025-26 highest total calorie (2908 Kcal) and carbohydrate (457
+Page  506: Education and Health cooking methods are reflected in the increasing number of s
+Page  507: Economic Survey 2025-26 manufactured products, may lead to adverse reactions. Co
+Page  508: Education and Health deeply ingrained socio-cultural factors influenced food hab
+Page  509: Economic Survey 2025-26 part of programme design can address barriers, improve h
+Page  510: Education and Health et.al. 2015132; Meng et al., 2022133). It is typically fram
+Page  511: Economic Survey 2025-26 Aristotle presented a view of friendship with three gene
+Page  512: Education and Health The SCI was first used by Bailey, Cao, Kuchler, Stroebel, a
+Page  513: Economic Survey 2025-26 Bihar and Uttar Pradesh display notably sparse chord net
+Page  514: Education and Health India’s challenge is to rebalance youth engagement by combi
+Page  515: Economic Survey 2025-26 India’s response to digital addiction 11.68. In India, m
+Page  516: Education and Health anxiety and stress levels), academic and workplace performa
+Page  517: Economic Survey 2025-26 11.77. Expanding the scope of Tele-MANAS to address digi
+Page  518: CHAPTE R EMPLOYMENT AND SKILL 12 DEVELOPMENT : GETTING SKILLING RIGHT India's wo
+Page  519: Economic Survey 2025-26 projections, India’s demographic dividend2 is expected t
+Page  520: Employment and Skill Development of the workforce. It discusses policy suggestio
+Page  521: Economic Survey 2025-26 Chart XII. 1: Labour market dynamics for H1 FY26 55.0 55
+Page  522: Employment and Skill Development 12.9 The PLFS data reveal a distinct and layere
+Page  523: Economic Survey 2025-26 The MoSPI conducted the first all-India TUS from January
+Page  524: Employment and Skill Development Chart XII.4: Time use statistics 1200 1133 1073
+Page  525: Economic Survey 2025-26 Box XII.2: Enhancing female labour force participation I
+Page  526: Employment and Skill Development work, and 19 per cent indicated that domestic d
+Page  527: Economic Survey 2025-26 (MSMEs) ecosystem can further facilitate women's transit
+Page  528: Employment and Skill Development 12.14 In this context, the e-Shram portal is st
+Page  529: Economic Survey 2025-26 12.18 Additionally, its integration with the Skill India
+Page  530: Employment and Skill Development Chart XII.5: Rise in overall factory Chart XII.
+Page  531: Economic Survey 2025-26 Chart XII.8: Employment trend by factory size 65% 19% 15
+Page  532: Employment and Skill Development Chart XII.11: Higher growth in large factories
+Page  533: Economic Survey 2025-26 Chart XII.13: States with a higher share of large factor
+Page  534: Employment and Skill Development sector is reflected in the rising use of the in
+Page  535: Economic Survey 2025-26 reduce anxiety, loneliness, and depression, thereby impr
+Page  536: Employment and Skill Development and an increase in worker productivity, positio
+Page  537: Economic Survey 2025-26 workers, a minimum wage, and timely payments, as well as
+Page  538: Employment and Skill Development overly rigid policies may reduce investment, em
+Page  539: Economic Survey 2025-26 uniformity and adequacy nationwide, while the traditiona
+Page  540: Employment and Skill Development Gig economy and informal workforce dynamics 12.
+Page  541: Economic Survey 2025-26 12.36 In general parlance, gig work refers to short-term
+Page  542: Employment and Skill Development ‘thin-file’ credit access, which remains a conc
+Page  543: Economic Survey 2025-26 rather than self-employed contractors, and establishing
+Page  544: Employment and Skill Development because they lack tools (for example, a bike, c
+Page  545: Economic Survey 2025-26 than a 13 per cent increase in employment in the labour-
+Page  546: Employment and Skill Development industry-aligned courses, including those linke
+Page  547: Economic Survey 2025-26 capabilities over time, including through recognition of
+Page  548: Employment and Skill Development SKILLING STRATEGIES FOR YOUTH 12.46 The aspirat
+Page  549: Economic Survey 2025-26 12.49 A World Bank Report highlights the need to develop
+Page  550: Employment and Skill Development subject-specific higher education.107 Overall,
+Page  551: Economic Survey 2025-26 approach that engages students in hands-on work across d
+Page  552: Employment and Skill Development labour-market-responsive education framework. M
+Page  553: Economic Survey 2025-26 burden.124 Regional disparities also persist in candidat
+Page  554: Employment and Skill Development 12.52 In recognition of this, under PMKVY 4.0,
+Page  555: Economic Survey 2025-26 digital content, and industry-aligned long- and short-te
+Page  556: Employment and Skill Development The key elements of the model such as image rei
+Page  557: Economic Survey 2025-26 financing models that expand access, encourage private s
+Page  558: Employment and Skill Development collaborative training activities that are othe
+Page  559: Economic Survey 2025-26 rogramme149, or as near-universal entitlements, like Sin
+Page  560: Employment and Skill Development mismatches that vocational training alone canno
+Page  561: Economic Survey 2025-26 local labour-market demand, a fresh and outcome-oriented
+Page  562: Employment and Skill Development outcomes, retention, earnings, and training qua
+Page  563: This page has been left blank
+Page  564: CHAPTE R RURAL DEVELOPMENT 13 AND SOCIAL PROGRESS: FROM PARTICIPATION TO PARTNER
+Page  565: Economic Survey 2025-26 inequality, the government has implemented targeted init
+Page  566: Rural Development and Social Progress: From Participatiom to Partnership 13.7. T
+Page  567: Economic Survey 2025-26 13.10. Alongside the ongoing efforts of the government o
+Page  568: Rural Development and Social Progress: From Participatiom to Partnership househo
+Page  569: Economic Survey 2025-26 Sustainable Development Goal (SDG) National Indicator Fr
+Page  570: Rural Development and Social Progress: From Participatiom to Partnership 7.5 7.6
+Page  571: Economic Survey 2025-26 wages, higher sales of tractors and fertilisers, and rob
+Page  572: Rural Development and Social Progress: From Participatiom to Partnership level.
+Page  573: Economic Survey 2025-26 Unemployment Payable if employment is not Payable if emp
+Page  574: Rural Development and Social Progress: From Participatiom to Partnership continu
+Page  575: Economic Survey 2025-26 73rd Constitutional Amendment (1992) institutionalised P
+Page  576: Rural Development and Social Progress: From Participatiom to Partnership survey.
+Page  577: Economic Survey 2025-26 enhance the governance of village commons, which remain
+Page  578: Rural Development and Social Progress: From Participatiom to Partnership 13.39.
+Page  579: Economic Survey 2025-26 related to rural areas would be beneficial. This can be
+Page  580: Rural Development and Social Progress: From Participatiom to Partnership 13.46.
+Page  581: Economic Survey 2025-26 Table XIII. 2 NRLM: Empowering Rural communities - From
+Page  582: Rural Development and Social Progress: From Participatiom to Partnership entrepr
+Page  583: Economic Survey 2025-26 of Sarpanch/Secretary, demography, finances, assets, act
+Page  584: Rural Development and Social Progress: From Participatiom to Partnership priorit
+Page  585: Economic Survey 2025-26 13.60. Rural Connectivity is one of the key components i
+Page  586: Rural Development and Social Progress: From Participatiom to Partnership Under P
+Page  587: Economic Survey 2025-26 mixed farming, crop rotation, water management, and the
+Page  588: Rural Development and Social Progress: From Participatiom to Partnership with ti
+Page  589: Economic Survey 2025-26 hours, the prevention of nearly 4 lakh diarrhoeal deaths
+Page  590: Rural Development and Social Progress: From Participatiom to Partnership 13.72.
+Page  591: Economic Survey 2025-26 13.76. MoPR is actively working in collaboration with th
+Page  592: Rural Development and Social Progress: From Participatiom to Partnership resolut
+Page  593: Economic Survey 2025-26 13.79. To build such a fair society, the government, thr
+Page  594: Rural Development and Social Progress: From Participatiom to Partnership SMILE -
+Page  595: Economic Survey 2025-26 13.81. Furthermore, the National Social Assistance Progr
+Page  596: Rural Development and Social Progress: From Participatiom to Partnership 13.85.
+Page  597: Economic Survey 2025-26 practices in re-employment. Civil society participation
+Page  598: Rural Development and Social Progress: From Participatiom to Partnership equal o
+Page  599: This page has been left blank
+Page  600: CHAPTE R EVOLUTION OF THE AI 14 ECOSYSTEM IN INDIA: THE WAY FORWARD This chapter
+Page  601: Economic Survey 2025-26 the conversation, both globally and in India, was still
+Page  602: Evolution of the AI Ecosystem in India 14.4. At the same time, greater visibilit
+Page  603: Economic Survey 2025-26 economic structures is not straightforward. Two, conside
+Page  604: Evolution of the AI Ecosystem in India shift rather than a broader macroeconomic
+Page  605: Economic Survey 2025-26 Taken together, the estimates imply that policymakers an
+Page  606: Evolution of the AI Ecosystem in India 14.8. Another source of uncertainty perta
+Page  607: Economic Survey 2025-26 14.13. Add to this the export restrictions imposed on th
+Page  608: Evolution of the AI Ecosystem in India related to quality control and fragmentat
+Page  609: Economic Survey 2025-26 creation for AI17, the risks of a financial contagion18
+Page  610: Evolution of the AI Ecosystem in India Chart XIV.2: Over 70% of all data centres
+Page  611: Economic Survey 2025-26 multinationals for AI-based solutions will leave India v
+Page  612: Evolution of the AI Ecosystem in India The simulation was run for a period of 40
+Page  613: Economic Survey 2025-26 Grid-related constraints emerge only episodically but re
+Page  614: Evolution of the AI Ecosystem in India lowered to 10% (relative to 15% for the b
+Page  615: Economic Survey 2025-26 Bottom-up approach to AI development in India 14.31. The
+Page  616: Evolution of the AI Ecosystem in India 14.33. At the same time, India’s access t
+Page  617: Economic Survey 2025-26 Box XIV.3: Local Ingenuity and Frugal AI in India India’
+Page  618: Evolution of the AI Ecosystem in India 14.37. The strategy must encourage innova
+Page  619: Economic Survey 2025-26 up strategy can be spearheaded under an ‘AI-OS’ initiati
+Page  620: Evolution of the AI Ecosystem in India sourced through a combination of diaspora
+Page  621: Economic Survey 2025-26 serve a more diverse range of learners, grants flexibili
+Page  622: Evolution of the AI Ecosystem in India 14.50. For instance, nursing and geriatri
+Page  623: Economic Survey 2025-26 In this context, depth of domain knowledge becomes a bin
+Page  624: Evolution of the AI Ecosystem in India priorities, and reflect what we expect fr
+Page  625: Economic Survey 2025-26 14.59. Two studies, independently examining the cognitiv
+Page  626: Evolution of the AI Ecosystem in India 4. Co-evolution of Technology and Human C
+Page  627: Economic Survey 2025-26 14.64. Additionally, given that the current stock of tra
+Page  628: Evolution of the AI Ecosystem in India 14.68. To begin with, India would have to
+Page  629: Economic Survey 2025-26 or reliance on public-sector or regulated datasets. Smal
+Page  630: Evolution of the AI Ecosystem in India 14.77. Covered entities must be required
+Page  631: Economic Survey 2025-26 3. Promote domestic value retention, so that Indian data
+Page  632: Evolution of the AI Ecosystem in India AI must be treated as a general-purpose t
+Page  633: Economic Survey 2025-26 14.85. Evidence by Cheng et al. (2025)47 also suggests t
+Page  634: Evolution of the AI Ecosystem in India based on their behavioural or personality
+Page  635: Economic Survey 2025-26 generated evidence, policy can shift toward selective sc
+Page  636: Evolution of the AI Ecosystem in India regulation alongside deployment. In this
+Page  637: This page has been left blank
+Page  638: CHAPTE R 15 URBANISATION: MAKING INDIA’S CITIES WORK FOR ITS CITIZENS India’s ci
+Page  639: Economic Survey 2025-26 Across all these themes runs a common optimism: India’s
+Page  640: Urbanisation innovation outcomes. Globally, and increasingly in India, the most
+Page  641: Economic Survey 2025-26 15.6. International evidence suggests that urbanisation
+Page  642: Urbanisation Chart XV.2: Evolution of the rural Chart XV.3: Urban populations –
+Page  643: Economic Survey 2025-26 15.11. Night-time lights (NTL) data present a visually s
+Page  644: Urbanisation 593 593
+Page  645: Economic Survey 2025-26 S ource: https://bhuvan-app1.nrsc.gov.in/bhuvan_ntl/ 15
+Page  646: Urbanisation emerge as important nodes of residential, industrial, and logistics
+Page  647: Economic Survey 2025-26 By 2020, the number of spatially identified urban-type s
+Page  648: Urbanisation settlements in Kerala outside municipal limits that show urban trai
+Page  649: Economic Survey 2025-26 15.16. In India, there is an inherent contradiction in u
+Page  650: Urbanisation OSR (Own Source Revenue) but remains minuscule relative to comparat
+Page  651: Economic Survey 2025-26 regulations, title insecurity, and fragmented markets, a
+Page  652: Urbanisation 15.24. Another reason why land remains unproductive is unclear land
+Page  653: Economic Survey 2025-26 can lose as much as ₹8,300 - ₹23,800 and ₹9,000 - ₹25,90
+Page  654: Urbanisation 15.29. Operationally, this principle requires high-capacity public
+Page  655: Economic Survey 2025-26 The corridor has been integrated into India’s first stat
+Page  656: Urbanisation 15.33. Door-to-door performance also depends on first–last mile acc
+Page  657: Economic Survey 2025-26 Box XV.3: International experiences and learnings from c
+Page  658: Urbanisation based, area licensing system where vehicles pay a daily fee to ente
+Page  659: Economic Survey 2025-26 15.36. After the success of the first phase of SBM-U, SB
+Page  660: Urbanisation Water (CEEW) (Khan, Mishra & Singh, 2025)29. The study presents a c
+Page  661: Economic Survey 2025-26 exemplary performance, encouraged peer competition. Pena
+Page  662: Urbanisation Even with existing infrastructure, full utilisation of current trea
+Page  663: Economic Survey 2025-26 City Upgradation through Technology Adoption 15.44. Indi
+Page  664: Urbanisation 15.48. Informal housing and slums play a key role in facilitating g
+Page  665: Economic Survey 2025-26 informal, absorbing migrants and low-skilled workers who
+Page  666: Urbanisation home-based firms are embedded in urban supply chains and neighbourh
+Page  667: Economic Survey 2025-26 remain uneven across cities and neighbourhoods. This is
+Page  668: Urbanisation Chart XV.11: Gross Domestic Behaviour Survey Results Chart XV.12: G
+Page  669: Economic Survey 2025-26 access to employment. Additionally, greenfield new citie
+Page  670: Urbanisation implement proposals for ‘Cities as Growth Hubs’ through Creative Re
+Page  671: Economic Survey 2025-26 make Noida in UP49, different from Gurgaon in Haryana af
+Page  672: Urbanisation 15.69. Infrastructure funding should be conditional on city-climate
+Page  673: Economic Survey 2025-26 self-reinforcing. 15.72. Urban design and service delive
+Page  674: Urbanisation groups. Rule certainty, therefore, requires not only consistency bu
+Page  675: Economic Survey 2025-26 There are similar pockets elsewhere: orderly boarding in
+Page  676: Urbanisation actively nurture art, music, design, food, and street culture as pa
+Page  677: Economic Survey 2025-26 and often driven by individual values rather than collec
+Page  678: CHAPTE R PART-I 16 FROM IMPORT SUBSTITUTION TO STRATEGIC RESILIENCE AND STRATEGI
+Page  679: Economic Survey 2025-26 The chapter also examines the ongoing compliance-reducti
+Page  680: From Import Substitution to Strategic Resilience and Strategic Indispensability
+Page  681: Economic Survey 2025-26 ended began to unravel in the new millennium. The first
+Page  682: From Import Substitution to Strategic Resilience and Strategic Indispensability
+Page  683: Economic Survey 2025-26 Chart XVI.2 Projected rise in electricity consumption by
+Page  684: From Import Substitution to Strategic Resilience and Strategic Indispensability
+Page  685: Economic Survey 2025-26 macroeconomic management. Yet the source of stability ma
+Page  686: From Import Substitution to Strategic Resilience and Strategic Indispensability
+Page  687: Economic Survey 2025-26 and supply chains are increasingly shaped by strategic c
+Page  688: From Import Substitution to Strategic Resilience and Strategic Indispensability
+Page  689: Economic Survey 2025-26 Tier I: Critical vulnerabilities with high strategic urg
+Page  690: From Import Substitution to Strategic Resilience and Strategic Indispensability
+Page  691: Economic Survey 2025-26 A new National Input Cost Reduction Strategy: competitiv
+Page  692: From Import Substitution to Strategic Resilience and Strategic Indispensability
+Page  693: Economic Survey 2025-26 16.51. In sheltered activities and protected sectors, fi
+Page  694: From Import Substitution to Strategic Resilience and Strategic Indispensability
+Page  695: Economic Survey 2025-26 Singapore’s experience highlights a dimension often negl
+Page  696: From Import Substitution to Strategic Resilience and Strategic Indispensability
+Page  697: Economic Survey 2025-26 Dimension Import Substitution Strategic Resilience Strat
+Page  698: From Import Substitution to Strategic Resilience and Strategic Indispensability
+Page  699: Economic Survey 2025-26 chains cannot be easily reconfigured without India, and
+Page  700: From Import Substitution to Strategic Resilience and Strategic Indispensability
+Page  701: Economic Survey 2025-26 16.73. Global trade is increasingly concentrated around
+Page  702: From Import Substitution to Strategic Resilience and Strategic Indispensability
+Page  703: This page has been left blank
+Page  704: CHAPTE R PART-II BUILDING STRATEGIC RESILIENCE AND 16 STRATEGIC INDISPENSABILITY
+Page  705: Economic Survey 2025-26 complemented by a greater capacity to coordinate across
+Page  706: Building Strategic Resilience and Strategic Indispensability 16.86. For starters
+Page  707: Economic Survey 2025-26 and capacity-building rather than mere procedural compli
+Page  708: Building Strategic Resilience and Strategic Indispensability Box XVI.3: Bureaucr
+Page  709: Economic Survey 2025-26 has provided visible ladders of mobility — as in segment
+Page  710: Building Strategic Resilience and Strategic Indispensability oversight mechanism
+Page  711: Economic Survey 2025-26 failure tolerated, and success rapidly scaled — so long
+Page  712: Building Strategic Resilience and Strategic Indispensability government without
+Page  713: Economic Survey 2025-26 transfers, and confidential staff reports from casual re
+Page  714: Building Strategic Resilience and Strategic Indispensability objectives are inte
+Page  715: Economic Survey 2025-26 embedded within an accountability architecture that make
+Page  716: Building Strategic Resilience and Strategic Indispensability Recognising that St
+Page  717: Economic Survey 2025-26 in practice. States act through institutions, and instit
+Page  718: Building Strategic Resilience and Strategic Indispensability successful executio
+Page  719: Economic Survey 2025-26 The Regulatory State as a Core Component of State Capaci
+Page  720: Building Strategic Resilience and Strategic Indispensability the governing board
+Page  721: Economic Survey 2025-26 accountability to representative institutions. Statutory
+Page  722: Building Strategic Resilience and Strategic Indispensability Responsible Regulat
+Page  723: Economic Survey 2025-26 16.128. Economic laws should specify timelines for every
+Page  724: Building Strategic Resilience and Strategic Indispensability control, succession
+Page  725: Economic Survey 2025-26 Japan’s post-war industrialisation offers another powerf
+Page  726: Building Strategic Resilience and Strategic Indispensability Across these very d
+Page  727: Economic Survey 2025-26 Citizens, norms, and the social foundations of capabilit
+Page  728: Building Strategic Resilience and Strategic Indispensability courses or formal t
+Page  729: Economic Survey 2025-26 from indifference to stewardship. The difference, in tha
+Page  730: Building Strategic Resilience and Strategic Indispensability Delayed Gratificati
+Page  731: Economic Survey 2025-26 16.155. At higher levels of development, growth relies l
+Page  732: Building Strategic Resilience and Strategic Indispensability 16.159. The Task Fo
+Page  733: XVI. Part II Building Strategic Resilience and Strategic Indispensability: The r
+Page  734: Building Strategic Resilience and Strategic Indispensability Best practices and
+Page  735: Economic Survey 2025-26 Case Studies from Tripura, and Andaman & Nicobar Islands
+Page  736: Building Strategic Resilience and Strategic Indispensability Box XVI.9: What vis
+Page  737: Economic Survey 2025-26 This experience underscores that effective state capacit
+Page  738: Building Strategic Resilience and Strategic Indispensability coordination and de
+Page  739: Government of India 2025-26 2025-26 vkfFkZd dk;Z foHkkx DEPARTMENT OF ECONOMIC A
+Page  740: Chart XVI.8: Implementation Status of Deregulation Priority Areas (as on 23 Janu

@@ -1,0 +1,172 @@
+{
+  "01_state_of_economy.txt": {
+    "raw_lines": 1749,
+    "kept_lines": 1575,
+    "dropped_blank_pages": 1,
+    "dropped_headers": 34,
+    "dropped_page_numbers": 191,
+    "dropped_reversed": 12,
+    "raw_chars": 89223,
+    "cleaned_chars": 87877
+  },
+  "02_fiscal_developments.txt": {
+    "raw_lines": 2215,
+    "kept_lines": 1953,
+    "dropped_blank_pages": 1,
+    "dropped_headers": 41,
+    "dropped_page_numbers": 212,
+    "dropped_reversed": 53,
+    "raw_chars": 104090,
+    "cleaned_chars": 99899
+  },
+  "03_monetary_management.txt": {
+    "raw_lines": 3132,
+    "kept_lines": 2878,
+    "dropped_blank_pages": 1,
+    "dropped_headers": 64,
+    "dropped_page_numbers": 285,
+    "dropped_reversed": 28,
+    "raw_chars": 178732,
+    "cleaned_chars": 175425
+  },
+  "04_external_sector.txt": {
+    "raw_lines": 2628,
+    "kept_lines": 2483,
+    "dropped_blank_pages": 1,
+    "dropped_headers": 56,
+    "dropped_page_numbers": 185,
+    "dropped_reversed": 11,
+    "raw_chars": 152717,
+    "cleaned_chars": 150904
+  },
+  "05_inflation.txt": {
+    "raw_lines": 1011,
+    "kept_lines": 886,
+    "dropped_blank_pages": 1,
+    "dropped_headers": 20,
+    "dropped_page_numbers": 107,
+    "dropped_reversed": 33,
+    "raw_chars": 44383,
+    "cleaned_chars": 43548
+  },
+  "06_agriculture.txt": {
+    "raw_lines": 1547,
+    "kept_lines": 1469,
+    "dropped_blank_pages": 1,
+    "dropped_headers": 32,
+    "dropped_page_numbers": 100,
+    "dropped_reversed": 5,
+    "raw_chars": 89565,
+    "cleaned_chars": 88262
+  },
+  "07_services.txt": {
+    "raw_lines": 1510,
+    "kept_lines": 1425,
+    "dropped_blank_pages": 1,
+    "dropped_headers": 32,
+    "dropped_page_numbers": 100,
+    "dropped_reversed": 12,
+    "raw_chars": 84485,
+    "cleaned_chars": 83006
+  },
+  "08_industry.txt": {
+    "raw_lines": 2080,
+    "kept_lines": 1897,
+    "dropped_blank_pages": 1,
+    "dropped_headers": 44,
+    "dropped_page_numbers": 210,
+    "dropped_reversed": 12,
+    "raw_chars": 113228,
+    "cleaned_chars": 110398
+  },
+  "09_investment_infra.txt": {
+    "raw_lines": 1490,
+    "kept_lines": 1432,
+    "dropped_blank_pages": 0,
+    "dropped_headers": 37,
+    "dropped_page_numbers": 94,
+    "dropped_reversed": 0,
+    "raw_chars": 89915,
+    "cleaned_chars": 87592
+  },
+  "10_environment_climate.txt": {
+    "raw_lines": 1853,
+    "kept_lines": 1805,
+    "dropped_blank_pages": 1,
+    "dropped_headers": 40,
+    "dropped_page_numbers": 83,
+    "dropped_reversed": 0,
+    "raw_chars": 124155,
+    "cleaned_chars": 122748
+  },
+  "11_education_health.txt": {
+    "raw_lines": 2358,
+    "kept_lines": 2257,
+    "dropped_blank_pages": 0,
+    "dropped_headers": 47,
+    "dropped_page_numbers": 139,
+    "dropped_reversed": 8,
+    "raw_chars": 139978,
+    "cleaned_chars": 138482
+  },
+  "12_employment_skill.txt": {
+    "raw_lines": 2112,
+    "kept_lines": 2018,
+    "dropped_blank_pages": 1,
+    "dropped_headers": 44,
+    "dropped_page_numbers": 130,
+    "dropped_reversed": 3,
+    "raw_chars": 132868,
+    "cleaned_chars": 131135
+  },
+  "13_rural_development.txt": {
+    "raw_lines": 1549,
+    "kept_lines": 1500,
+    "dropped_blank_pages": 1,
+    "dropped_headers": 34,
+    "dropped_page_numbers": 72,
+    "dropped_reversed": 6,
+    "raw_chars": 99307,
+    "cleaned_chars": 97357
+  },
+  "14_ai_ecosystem.txt": {
+    "raw_lines": 1585,
+    "kept_lines": 1489,
+    "dropped_blank_pages": 1,
+    "dropped_headers": 36,
+    "dropped_page_numbers": 125,
+    "dropped_reversed": 2,
+    "raw_chars": 101702,
+    "cleaned_chars": 100140
+  },
+  "15_urbanisation.txt": {
+    "raw_lines": 1703,
+    "kept_lines": 1640,
+    "dropped_blank_pages": 0,
+    "dropped_headers": 39,
+    "dropped_page_numbers": 98,
+    "dropped_reversed": 2,
+    "raw_chars": 108084,
+    "cleaned_chars": 107048
+  },
+  "16_1_strategic_resilience_1.txt": {
+    "raw_lines": 992,
+    "kept_lines": 961,
+    "dropped_blank_pages": 1,
+    "dropped_headers": 24,
+    "dropped_page_numbers": 50,
+    "dropped_reversed": 0,
+    "raw_chars": 62914,
+    "cleaned_chars": 61458
+  },
+  "16_2_strategic_resilience_2.txt": {
+    "raw_lines": 1583,
+    "kept_lines": 1548,
+    "dropped_blank_pages": 0,
+    "dropped_headers": 34,
+    "dropped_page_numbers": 72,
+    "dropped_reversed": 0,
+    "raw_chars": 111052,
+    "cleaned_chars": 109395
+  }
+}

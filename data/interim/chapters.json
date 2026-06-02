@@ -1,0 +1,138 @@
+[
+  {
+    "chapter_id": 1,
+    "slug": "state_of_economy",
+    "title": "State of the Economy: Pushing the Growth Frontier",
+    "start_page": 52,
+    "end_page": 87,
+    "page_count": 36
+  },
+  {
+    "chapter_id": 2,
+    "slug": "fiscal_developments",
+    "title": "Fiscal Developments: Anchoring Stability Through Credible Consolidation",
+    "start_page": 88,
+    "end_page": 129,
+    "page_count": 42
+  },
+  {
+    "chapter_id": 3,
+    "slug": "monetary_management",
+    "title": "Monetary Management and Financial Intermediation: Refining the Regulatory Touch",
+    "start_page": 130,
+    "end_page": 195,
+    "page_count": 66
+  },
+  {
+    "chapter_id": 4,
+    "slug": "external_sector",
+    "title": "External Sector: Playing the Long Game",
+    "start_page": 196,
+    "end_page": 253,
+    "page_count": 58
+  },
+  {
+    "chapter_id": 5,
+    "slug": "inflation",
+    "title": "Inflation: Tamed and Anchored",
+    "start_page": 254,
+    "end_page": 275,
+    "page_count": 22
+  },
+  {
+    "chapter_id": 6,
+    "slug": "agriculture",
+    "title": "Agriculture and Food Management: Raising Productivity, Securing Income",
+    "start_page": 276,
+    "end_page": 309,
+    "page_count": 34
+  },
+  {
+    "chapter_id": 7,
+    "slug": "services",
+    "title": "Services: From Stability to New Frontiers",
+    "start_page": 310,
+    "end_page": 343,
+    "page_count": 34
+  },
+  {
+    "chapter_id": 8,
+    "slug": "industry",
+    "title": "Industry's Next Leap: Structural Transformation and Global Integration",
+    "start_page": 344,
+    "end_page": 389,
+    "page_count": 46
+  },
+  {
+    "chapter_id": 9,
+    "slug": "investment_infra",
+    "title": "Investment and Infrastructure: Strengthening Connectivity, Capacity, Competitiveness",
+    "start_page": 390,
+    "end_page": 427,
+    "page_count": 38
+  },
+  {
+    "chapter_id": 10,
+    "slug": "environment_climate",
+    "title": "Environment and Climate Change: Building a Resilient, Competitive India",
+    "start_page": 428,
+    "end_page": 469,
+    "page_count": 42
+  },
+  {
+    "chapter_id": 11,
+    "slug": "education_health",
+    "title": "Education and Health: What Works and What's Next",
+    "start_page": 470,
+    "end_page": 517,
+    "page_count": 48
+  },
+  {
+    "chapter_id": 12,
+    "slug": "employment_skill",
+    "title": "Employment and Skill Development: Getting Skilling Right",
+    "start_page": 518,
+    "end_page": 563,
+    "page_count": 46
+  },
+  {
+    "chapter_id": 13,
+    "slug": "rural_development",
+    "title": "Rural Development and Social Progress: From Participation to Partnership",
+    "start_page": 564,
+    "end_page": 599,
+    "page_count": 36
+  },
+  {
+    "chapter_id": 14,
+    "slug": "ai_ecosystem",
+    "title": "Evolution of the AI Ecosystem in India: The Way Forward",
+    "start_page": 600,
+    "end_page": 637,
+    "page_count": 38
+  },
+  {
+    "chapter_id": 15,
+    "slug": "urbanisation",
+    "title": "Urbanisation: Making India's Cities Work for Its Citizens",
+    "start_page": 638,
+    "end_page": 677,
+    "page_count": 40
+  },
+  {
+    "chapter_id": 16.1,
+    "slug": "strategic_resilience_1",
+    "title": "From Import Substitution to Strategic Resilience and Strategic Indispensability",
+    "start_page": 678,
+    "end_page": 703,
+    "page_count": 26
+  },
+  {
+    "chapter_id": 16.2,
+    "slug": "strategic_resilience_2",
+    "title": "Building Strategic Resilience: The Role of State, Private Sector and Citizens",
+    "start_page": 704,
+    "end_page": 740,
+    "page_count": 37
+  }
+]

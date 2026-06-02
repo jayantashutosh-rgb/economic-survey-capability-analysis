@@ -1,0 +1,49 @@
+Sen-core vocabulary in chapters 12, 13, 15
+Total occurrences: 12
+================================================================================
+
+--- Chapter 12 (7 occurrences) ---
+
+[ 1] Page 518  — "capabilities" (capability)
+     ...r well-being. While addressing the quantity of labour, it is equally important to improve its quality, as economic growth relies on both the size and capabilities of its labour force. To achieve this, opportunities for vocational education at all levels are vital for strengthening the skill ecosystem and realis...
+
+[ 2] Page 527  — "capabilities" (capability)
+     ...sential to expand women’s access to credit and procurement opportunities. Mentorship and future-oriented skills such as digital literacy, hybrid work capabilities, and green job training can further enhance female workforce participation. Increasing women’s participation in the labour market is not merely a mat...
+
+[ 3] Page 546  — "capabilities" (capability)
+     ...an attendance. This is especially important in India’s labour market, which remains dominated by small and informal firms with limited human resource capabilities; without such linkage, trainees may complete courses only to discover that their skills are either mismatched or undervalued. The section titled 'Sup...
+
+[ 4] Page 547  — "capabilities" (capability)
+     ...capabilities over time, including through recognition of prior learning, can support mobility and wage progression rather than creating a brittle one-shot credent...
+
+[ 5] Page 547  — "dignity" (dignity)
+     ...portfolios, placement services, and integrity mechanisms around the lived outcomes of trainees. If this alignment is achieved, the attractiveness and dignity of skills-based pathways, whether labelled diplomas or degrees, will follow from their demonstrated value in the labour market rather than from optic...
+
+[ 6] Page 555  — "capabilities" (capability)
+     ...ng, ITI grading, and mandatory Institute Management Committees. Despite these efforts, underutilisation of capacity, subpar training quality, faculty capabilities, and infrastructure that fall short of global benchmarks, as well as limited employability and entrepreneurial preparedness among most trainees, pers...
+
+[ 7] Page 561  — "capability" (capability)
+     ...curriculum definition, workplace learning and assessment, which creates a natural outcome-monitoring loop because firms have direct stakes in trainee capability and retention.164 Third, in countries such as Korea, active labour-market programmes are treated as policy instruments that must continually justify...
+
+
+--- Chapter 13 (4 occurrences) ---
+
+[ 1] Page 564  — "dignity" (dignity)
+     ...ption of technology, and enhanced participation of local governments, and community institutions. Inclusive development in India emphasises fairness, dignity, and equal rights for all, with the empowerment of vulnerable and marginalised groups at its core. Government affirmative action in education, health...
+
+[ 2] Page 573  — "capabilities" (capability)
+     ...the administrative expenditure ceiling from 6 per cent to 9 per cent of total expenditure, supporting staffing, training, remuneration, and technical capabilities. This shift towards a professional, well-supported system is expected to improve planning, execution, and service delivery while reinforcing accounta...
+
+[ 3] Page 592  — "dignity" (dignity)
+     ...get of poverty eradication, the goal of Viksit Bharat encompasses building an inclusive society where growth and development translate into fairness, dignity, and equal rights for all sections of society....
+
+[ 4] Page 596  — "dignity" (dignity)
+     ...ed with the launch of the National Action for Mechanised Sanitation Ecosystem (NAMASTE) scheme in July 2023. The Scheme aims to ensure the safety and dignity of sanitation workers. The focus is on preventing hazardous cleaning and promoting safe cleaning practices through trained and certified sanitation w...
+
+
+--- Chapter 15 (1 occurrences) ---
+
+[ 1] Page 676  — "dignity" (dignity)
+     ...lobally for skilled workers, entrepreneurs, and ideas, cities that exhaust people will lose them, regardless of wage differentials. Cities that offer dignity, expression, and predictability will retain and attract them. 15.79. As long as citizens feel ownership of cities, they will assume responsibility fo...
+
+
